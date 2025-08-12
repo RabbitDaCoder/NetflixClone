@@ -1,0 +1,2 @@
+the index.html, the linked style file change it to style.css to see different appearance, 
+its on styles/index.css currently
